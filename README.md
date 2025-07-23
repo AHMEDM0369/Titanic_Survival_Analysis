@@ -1,4 +1,4 @@
-# CODECRAFT_DS_02: Titanic Survival Analysis
+# Titanic_Survival_Analysis
 Comprehensive EDA of Titanic dataset using Python (pandas, numpy, matplotlib, seaborn) to uncover key factors influencing passenger survival during the sinking. Demonstrates data cleaning, analysis, and insightful visualization techniques.
 
 
@@ -50,8 +50,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/AHMEDM0369/CODECRAFT_DS_02.git
-    cd CODECRAFT_DS_02
+    git clone https://github.com/AHMEDM0369/Titanic_Survival_Analysis.git
+    cd Titanic_Survival_Analysis
     ```
 2. **Create a virtual environment (recommended):**
     ```bash
@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
     ```
 4. **Run the Jupyter Notebook:**
     ```bash
-    jupyter notebook CODECRAFT_DS_02.ipynb
+    jupyter notebook Titanic_Survival_Analysis.ipynb
     ```
 
 ## Contact
