@@ -68,5 +68,5 @@ To run this project locally, follow these steps:
     ```
 
 ## Contact
--   Your Name - ahmedm
--   Your Email - mrahmedm09@gmail.com
+-   Name - ahmedm
+-   Email - mrahmedm09@gmail.com
